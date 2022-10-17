@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.d95dd37d.css",
+    "main.js": "/personal-website/static/js/main.6b764ed8.js",
+    "static/media/PlayfairDisplay-Italic.woff": "/personal-website/static/media/PlayfairDisplay-Italic.d1ee5fb062073a124918.woff",
+    "static/media/PlayfairDisplay-Black.woff": "/personal-website/static/media/PlayfairDisplay-Black.a6a76e0dc2f056ae629a.woff",
+    "static/media/photo_2022-10-17_17-49-13.jpg": "/personal-website/static/media/photo_2022-10-17_17-49-13.0532de72f7bce9657a02.jpg",
+    "static/media/Comfortaa-Regular.woff": "/personal-website/static/media/Comfortaa-Regular.baef4c4aae321e427546.woff",
+    "static/media/KLfHHU_eK-M.jpg": "/personal-website/static/media/KLfHHU_eK-M.fc8ffb4329159b5a9925.jpg",
+    "static/media/React-icon.svg.png": "/personal-website/static/media/React-icon.svg.1e5639fdfd7c944093d3.png",
+    "static/media/logo.svg": "/personal-website/static/media/logo.a37372f5be5c0c964f7a93e4350e9a6f.svg",
+    "static/media/png": "/personal-website/static/media/316df50bcf36dccbe19dd219abf85b16.0f77a8112d268e55a6eb.png",
+    "static/media/figma.png": "/personal-website/static/media/figma.65326560bc2420c43915.png",
+    "static/media/prosto.png": "/personal-website/static/media/prosto.bb6d474e62024f2dd09d.png",
+    "static/media/p_.svg": "/personal-website/static/media/p_.398d47952f3dfc273cd8bd5e87d7df11.svg",
+    "index.html": "/personal-website/index.html",
+    "main.d95dd37d.css.map": "/personal-website/static/css/main.d95dd37d.css.map",
+    "main.6b764ed8.js.map": "/personal-website/static/js/main.6b764ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d95dd37d.css",
+    "static/js/main.6b764ed8.js"
+  ]
+}
